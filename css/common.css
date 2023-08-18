@@ -1,0 +1,14 @@
+.padding100{
+  padding:100px 0;
+}
+.h2{
+font-size: 60px;
+/*! background-color: #0004fa; */
+}
+.p{
+font-size: 16px;
+}
+.flex{
+ display: flex;
+ justify-content: center;
+}

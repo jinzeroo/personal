@@ -1,0 +1,18 @@
+*{ /* 모든태그 */
+    margin: 0;
+    padding:0;
+    line-height:1; /* 줄간격,글높이 */
+  }
+  h1{
+    font-size: 100%; /* 16px */
+    font-weight: bold; /* 폰트두께 */
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  ul{
+    list-style: none; /* 점표시 없앰 */
+  }
+  a{
+    text-decoration: none; 
+    color: black;
+  }
